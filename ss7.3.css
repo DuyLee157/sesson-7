@@ -1,0 +1,9 @@
+img {
+    height: 500px;
+    width: 200px;
+    border-top-left-radius:    60px;
+    border-top-right-radius: 60px;
+}
+.heading-1{
+    color: black;
+}
